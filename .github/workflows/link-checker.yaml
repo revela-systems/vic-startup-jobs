@@ -4,7 +4,7 @@ on:
   push: {}
 
 jobs:
-  build:
+  check-links:
     runs-on: ubuntu-latest
 
     steps:
