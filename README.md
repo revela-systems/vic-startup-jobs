@@ -6,6 +6,7 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Tweet about us!][tweet-link]
 
+![link checker status](https://github.com/sendwithus/vic-startup-jobs/actions/workflows/link-checker.yaml/badge.svg)
 
 ### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
