@@ -1,7 +1,12 @@
 name: Link Checking
 
 on:
-  push: {}
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   check-links:
